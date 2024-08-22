@@ -88,7 +88,7 @@ export type CameraTypes = {
 
 
 export type TextRecognitionPlugin = {
-  scanText: (frame: Frame) => Text[];
+  scanText: (frame: Frame) => Text;
 };
 export type TranslatorPlugin = {
   translate: (frame: Frame) => string;
