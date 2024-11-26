@@ -23,6 +23,6 @@ Pod::Spec.new do |s|
   s.dependency "GoogleMLKit/TextRecognitionDevanagari", "4.0.0"
   s.dependency "GoogleMLKit/TextRecognitionJapanese", "4.0.0"
   s.dependency "GoogleMLKit/TextRecognitionKorean", "4.0.0"
-  s.dependency "GoogleMLKit/Translate", "6.0.0"
+  s.dependency "GoogleMLKit/Translate", "4.0.0"
 
 end
